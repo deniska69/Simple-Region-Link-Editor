@@ -1,0 +1,90 @@
+.base {
+    background-color: #d3d4ce;
+    height: 100vh;
+}
+
+.navbar {
+    height: 7vh;
+    background-color: #f6f6f6;
+}
+
+.navbar-brand {
+    color: #287393;
+}
+
+._hide {
+    display: none;
+}
+
+.select_image {
+    height: 93vh;
+}
+
+.btn_home_page {
+    margin-top: 40vh;
+}
+
+.card {
+    margin-top: 5vh;
+    height: 80vh;
+}
+
+.row_card {
+    height: 100%;
+}
+
+.progress_btn {
+    height: 38px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.image_editor {
+    position: relative;
+    min-width: 0;
+    height: 80vh;
+    margin-top: 5vh;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col_image {
+    min-width: 0;
+    height: 100%;
+    padding: 12px;
+}
+
+.col_control {
+    min-width: 0;
+    height: 100%;
+    padding: 12px;
+    padding-left: 0;
+    vertical-align: top;
+}
+
+.tableUrl tr:hover {
+    background: rgba(0, 0, 0, 0.075);
+}
+
+.table-wrapper {
+    max-height: 40vh;
+    overflow: auto;
+    display: inline-block;
+}
+
+.aHover {
+    background: rgba(255, 255, 255, .3);
+}
+
+.form-check,
+.form-check-input,
+.form-check-label {
+    cursor: pointer;
+}
+
+.btnShowModalHTML {
+    width: 100%;
+}
