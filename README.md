@@ -1,6 +1,7 @@
 # Web-Приложение "Simple Region Link Editor"
 
 Simple Region Link Editor - Web-Приложение разработанное для автоматизации процесса создания ссылок-областей.
+Скриншоты и пример готовой работы можно посмотреть по ссылке: [[imageban.ru](https://gostev.site/portfolio/SimpleRegionLinkEditor)]([https://imageban.ru/](https://gostev.site/portfolio/SimpleRegionLinkEditor))
 
 Работа с приложением происходит следующим образом:
 
